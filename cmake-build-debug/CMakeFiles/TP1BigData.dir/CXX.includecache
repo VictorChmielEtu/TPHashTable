@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vic/CLionProjects/TP1BigData/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+
